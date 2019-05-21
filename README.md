@@ -5,3 +5,7 @@ Installation instructions:
 4. configure the env file with the following settings:
 - `COMPANIESHOUSE_API_KEY="api_key_from_companieshouse_account"`
 - `COMPANIESHOUSE_API="https://api.companieshouse.gov.uk/"` 
+
+
+Running tests:
+1. just run `phpunit` in the project folder
